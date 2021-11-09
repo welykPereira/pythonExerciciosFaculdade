@@ -1,3 +1,8 @@
+"""""
+2. Atribua um valor qualquer a um objeto a (minúsculo).
+Utilize o comando type ou o comando print com o objeto A (maiúsculo).
+Relate o que aconteceu.
+"""""
 
 #exercicio 02
 a = 25
