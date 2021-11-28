@@ -1,5 +1,3 @@
-
-
 while True:
     nome = input('Digite seu nome?')
     if nome != 'welyk':
@@ -8,15 +6,6 @@ while True:
     if senha == 'shoow':
         break
 print('Acesso liberado')
-
-
-
-
-
-
-
-
-
 
 
 
